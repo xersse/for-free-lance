@@ -1,0 +1,39 @@
+
+
+.profil{
+    background-color: red;
+}
+
+.user-profil{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.pp-profil{
+    background-color: green;
+    display: flex;
+}
+
+.pp-profil button{
+    border-radius: 50px;
+    background: #7e7e7e;
+    border-color: transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 30px;
+}
+
+.img-pp{
+    border-radius: 50px;
+    height: 75px;
+}
+
+.pp-edit{
+    
+    height: 24px;
+}
